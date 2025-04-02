@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Tiffany Danin
 
-<!--
-**tiffanydanin/tiffanydanin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Digital Operations Specialist based in Miami, Florida, with a background in digital storytelling, marketing strategy, UX design, and higher education operations.
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Current Role**: Digital Operations Specialist
+- **Past Experience**: Marketing Director | Higher Ed Strategist | Web & UX Consultant
+- **Education**: Master of Business Administration | Bachelor of Digital Storytelling from Palm Beach Atlantic University
+
+### Connect With Me
+
+- [Portfolio Website](https://tiffanydanin.com)
+- [Google Site Portfolio](https://sites.google.com/view/tiffanydanin)
+- [LinkedIn](https://linkedin.com/in/tiffanydanin)
+- [ResearchGate](https://www.researchgate.net/profile/Tiffany-Danin)
+
+---
+
+I’m passionate about streamlining systems, elevating digital experiences, and telling meaningful stories through ethical media.  
