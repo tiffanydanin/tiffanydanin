@@ -11,7 +11,7 @@ I'm a Digital Operations Specialist based in Miami, Florida, with a background i
 ### Connect With Me
 
 - [Portfolio Website](https://tiffanydanin.com)
-- [Google Site Portfolio](https://sites.google.com/view/tiffanydanin)
+- [Google Site](https://sites.google.com/view/tiffanydanin)
 - [LinkedIn](https://linkedin.com/in/tiffanydanin)
 - [ResearchGate](https://www.researchgate.net/profile/Tiffany-Danin)
 
