@@ -17,4 +17,4 @@ I'm a Digital Operations Specialist based in Miami, Florida, with a background i
 
 ---
 
-I’m passionate about streamlining systems, elevating digital experiences, and telling meaningful stories through ethical media.  
+I’m passionate about streamlining systems, elevating digital experiences, and telling meaningful stories through ethical media.
