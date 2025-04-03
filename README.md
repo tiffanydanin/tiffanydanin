@@ -11,6 +11,7 @@ I'm a Digital Operations Specialist based in Miami, Florida, with a background i
 ## Featured Work
 
 📄 Read my latest Medium article: [How Driving Digital Transformation in Higher Education Changed My Career](https://medium.com/@tiffanydanin/driving-digital-transformation-in-higher-education-acbcba7114e6)
+📄 [Should Students Have Credit Cards?](https://www.researchgate.net/publication/381085155_Should_Students_Have_Credit_Cards)  
 
 ### Connect With Me
 
