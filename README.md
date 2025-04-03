@@ -10,7 +10,7 @@ I'm a Digital Operations Specialist based in Miami, Florida, with a background i
 
 ## Featured Work
 
-📄 Read my latest Medium article: [How Driving Digital Transformation in Higher Education Changed My Career](https://medium.com/@tiffanydanin/how-driving-digital-transformation-in-higher-education-changed-my-career)
+📄 Read my latest Medium article: [How Driving Digital Transformation in Higher Education Changed My Career](https://medium.com/@tiffanydanin/driving-digital-transformation-in-higher-education-acbcba7114e6)
 
 ### Connect With Me
 
